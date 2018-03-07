@@ -1,15 +1,15 @@
-body{
+#main-content p{
     color: red;
 }
 
-div{
-    color: blue;
+p{
+    color: #000;
 }
 
-p{
+.test{
     color: green;
 }
 
-a{
-    color: orange;
+strong{
+    color:olive;
 }
