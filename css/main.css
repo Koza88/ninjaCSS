@@ -1,7 +1,8 @@
-p {
-    color: red !important;
+p, span, li, a {
+    color: red;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: Arial;
 }
 
-#main-content p{
-    color: green;
-}
+
