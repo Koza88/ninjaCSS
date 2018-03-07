@@ -1,8 +1,5 @@
-p, span, li, a {
+#main-content #sub-content p {
     color: red;
-    font-size: 14px;
-    font-weight: bold;
-    font-family: Arial;
 }
 
 
