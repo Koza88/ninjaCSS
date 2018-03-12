@@ -1,3 +1,15 @@
-#all-articles h2 + p {
+span[class~="deck"]{
+    color: rgb(128, 0, 128);
+}
+
+div[id]{
+    background: aqua;
+}
+
+a[title="link"]{
+    color: red;
+}
+
+a[href$="pdf"]{
     color: green;
 }
